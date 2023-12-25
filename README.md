@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 ## In-game bonuses
 
 
-![App bonus](screenshot/ufoGreen.png) - Adds one life
+![App bonus](ufoGreenlife.png) - Adds one life
 
 ![App bonus](screenshot/shield_gold.png) - Adds energy
 
